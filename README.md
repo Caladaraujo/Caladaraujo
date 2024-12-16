@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Caladaraujo
+- 👀 I’m interested in flutter development
+- 🌱 I’m currently learning UX & design thinking
+- 📫 How to reach me: Send me a email [here](mailto:caiocaladaraujo.dev@gmail.com "Hello! I am...")
+- 😄 Pronouns: He/Him
