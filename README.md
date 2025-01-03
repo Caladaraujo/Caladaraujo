@@ -1,9 +1,3 @@
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Caladaraujo/count.svg?"  />
-</div>
-
 # About me
 
 - 👋 Hi, I’m @Caladaraujo
@@ -13,12 +7,12 @@
 
 # My Social Medias
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="32" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="32" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="32" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="32" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="32" alt="stackoverflow logo"  />
+<div style="display: flex; justify-content: space-between; align-items: left; width: 100%;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="32" alt="discord logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="32" alt="gmail logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="32" alt="instagram logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="32" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="32" alt="stackoverflow logo" />
 </div>
 
 # My #DevCards
@@ -30,3 +24,6 @@
 </div>
 
 <a href="https://app.daily.dev/caladaraujo"><img src="https://api.daily.dev/devcards/v2/0g4yCRXZXxrVmk4kqsw1i.png?type=wide&r=frz" width="500" alt="Caio Calado's Dev Card"/></a>
+
+
+
